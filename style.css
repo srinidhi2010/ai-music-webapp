@@ -1,0 +1,20 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+background-size: 2600px;
+}
+
+#speed{
+height: 50px;
+width: 150px;
+font-size: 23px;
+}
+
